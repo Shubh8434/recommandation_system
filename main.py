@@ -22,6 +22,8 @@ model = tensorflow.keras.Sequential([
 ])
 
 st.title('Devloper@Shubham Sharma')
+st.title('E-commerce Product Recommender System')
+
 
 
 def save_uploaded_file(uploaded_file):
